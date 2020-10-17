@@ -6,7 +6,7 @@ Hi! I am mohamed chegri. I am a student at [1337](https://1337.ma/) . This is a 
 
 # pool__C
  
-![Piscine C décloisonnée](https://github.com/Chegashi/42networks_Piscine_C)
+[Piscine C décloisonnée](https://github.com/Chegashi/42networks_Piscine_C)
 
 # Rank 00
 
