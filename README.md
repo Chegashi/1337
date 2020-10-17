@@ -14,14 +14,14 @@ Hi! I am mohamed chegri. I am a student at [1337](https://1337.ma/) . This is a 
 
 # Rank 01
 
-* [ft_printf]()
+* [ft_printf](https://github.com/Chegashi/42networks_Ft_printf)
 * netwhat
 * [get_next_line](https://github.com/Chegashi/42networks_Get_next_line)
 
 # Rank 02
 
 * [ft_server](https://github.com/Chegashi/42networks_Ft_server)
-* [cub3d]()
+* [cub3d](https://github.com/Chegashi/42networks_cub3d)
 * miniRT
 * [Exam_Rank_02]()
 
@@ -49,7 +49,7 @@ Hi! I am mohamed chegri. I am a student at [1337](https://1337.ma/) . This is a 
 
 # AI math algorithme
 
-* [ft_linear_regression]()
+* [ft_linear_regression](https://github.com/Chegashi/42networks_Ft_linear_regression)
 * [dslr]()
 * [multilayer-perceptron]()
 * [total-perspective-vortex]()
