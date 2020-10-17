@@ -6,23 +6,23 @@ Hi! I am mohamed chegri. I am a student at [1337](https://1337.ma/) . This is a 
 
 # pool__C
  
-[Piscine C décloisonnée]()
+![Piscine C décloisonnée](https://github.com/Chegashi/42networks_Piscine_C)
 
 # Rank 00
 
-* [libft]()
+* [libft](https://github.com/Chegashi/42networks_Ft_server)
 
 # Rank 01
 
 * [ft_printf]()
-* [netwhat]()
-* [get_next_line]()
+* netwhat
+* [get_next_line](https://github.com/Chegashi/42networks_Get_next_line)
 
 # Rank 02
 
-* [ft_server]()
+* [ft_server](https://github.com/Chegashi/42networks_Ft_server)
 * [cub3d]()
-* [miniRT]()
+* miniRT
 * [Exam_Rank_02]()
 
 # Rank 03
@@ -47,18 +47,14 @@ Hi! I am mohamed chegri. I am a student at [1337](https://1337.ma/) . This is a 
 
 * [ft_transcendence]()
 
-# AI
+# AI math algorithme
 
 * [ft_linear_regression]()
 * [dslr]()
 * [multilayer-perceptron]()
 * [total-perspective-vortex]()
-
-# math
 * [computorv1]()
 * [computorv2]()
-
-# algorithme
 * [push_swap]()
 * [lem_in]()
 * [corewar]()
